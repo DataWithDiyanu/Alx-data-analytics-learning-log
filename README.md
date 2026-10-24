@@ -25,7 +25,7 @@ Hello! I'm an aspiring Data Analyst currently developing my skills through the A
 | File                                                                   | Description                                                                                        |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [October 2026 Work Log](Work-log-october-2026.md)                      | My learning progress, achievements, challenges, and next steps from my ALX Data Analytics journey. |
-| [Supermarket Sales Analysis Workbook](supermarket-sales-analysis.xlsx) | My Excel workbook containing sample sales data, pivot tables, a chart, and a project report.       |
+| [Supermarket Sales Analysis Workbook](Supermarket-sales-analysis.xlsx) | My Excel workbook containing sample sales data, pivot tables, a chart, and a project report.       |
 
 ## 📊 Project 1: Supermarket Sales Analysis
 
