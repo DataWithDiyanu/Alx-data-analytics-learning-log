@@ -24,7 +24,7 @@ Hello! I'm an aspiring Data Analyst currently developing my skills through the A
 
 | File                                                | Description                                                                  |
 | --------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [Work Log — October 2026](work-log-october-2026.md) | My October 2026 learning progress, achievements, challenges, and next steps. |
+| [Work Log — October 2026](Work-log-october-2026.md) | My October 2026 learning progress, achievements, challenges, and next steps. |
 
 I'll add more practice projects and analyses as I progress through my learning journey.
 
