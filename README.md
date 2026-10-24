@@ -25,7 +25,7 @@ Hello! I'm an aspiring Data Analyst currently developing my skills through the A
 | File                                                                   | Description                                                                                        |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [October 2026 Work Log](Work-log-october-2026.md)                      | My learning progress, achievements, challenges, and next steps from my ALX Data Analytics journey. |
-| [Supermarket Sales Analysis Workbook](Supermarket-sales-analysis.xlsx.xlsx) | My Excel workbook containing sample sales data, pivot tables, a chart, and a project report. | 
+| [Supermarket Sales Analysis Workbook](./Supermarket-sales-analysis.xlsx.xlsx) | My Excel workbook containing sample sales data, pivot tables, a chart, and a project report. | 
 
 ## 📊 Project 1: Supermarket Sales Analysis
 
@@ -67,6 +67,6 @@ Additional information, including product costs, inventory records, customer pre
 Through this project, I practised using spreadsheet formulas, creating pivot tables, building charts, comparing sales performance, and communicating findings through a written report.
 This project helped me understand how data can be used to investigate business questions and support decision-making.
 
-[Open the Supermarket Sales Analysis Workbook](supermarket-sales-analysis.xlsx)
+[Open the Supermarket Sales Analysis Workbook](./Supermarket-sales-analysis.xlsx.xlsx)
 
 Thank you for visiting my repository!
